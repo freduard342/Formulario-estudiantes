@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\bin\Debug\net8.0-windows\clasedbely.exe
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\bin\Debug\net8.0-windows\clasedbely.deps.json
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\bin\Debug\net8.0-windows\clasedbely.runtimeconfig.json
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\bin\Debug\net8.0-windows\clasedbely.dll
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\bin\Debug\net8.0-windows\clasedbely.pdb
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.Form1.resources
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.dll
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\refint\clasedbely.dll
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.pdb
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\clasedbely.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Documentos\todo lo de 5toD 2025.2026\gamalier\vs c codes\windows form\formulario de estudiante\formulario de estudiante\clasedbely\obj\Debug\net8.0-windows\ref\clasedbely.dll

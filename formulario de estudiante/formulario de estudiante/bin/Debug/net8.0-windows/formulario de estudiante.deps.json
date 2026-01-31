@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "formulario de estudiante/1.0.0": {
+        "runtime": {
+          "formulario de estudiante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formulario de estudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
